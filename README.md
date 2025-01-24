@@ -2,7 +2,7 @@
 
 A lightweight WPF desktop application that displays real-time **battery charge status** and **charge percentage** in a modern, transparent UI.
 
-![Uploading BSV_Preview.gif…]()
+![GIF_Preview](BatteryStatusWPF_V/GitHubPreview/BSV_Preview.gif)
 
 ## Features
 - **Modern Acrylic UI**: Sleek, transparent window with a borderless design.
