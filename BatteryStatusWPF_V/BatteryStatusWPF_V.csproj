@@ -108,8 +108,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Icons\BSV.ico" />
     <Resource Include="Icons\BSV_Transparent.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="GitHubPreview\BSV_Preview.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
